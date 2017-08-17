@@ -12,6 +12,4 @@
     <input type="submit">
     </form>
 
-    echo "Thank you! We'll be in touch soon."
-
 </php>
